@@ -5,12 +5,12 @@ body{
 }
 
 #container{
-    background-image:linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3));
+     width: 2000px;
+    height: 950px;
+    background-image:linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(../Downloads/Images.jpg);
     margin: 20px auto;
     position: relative;
-    height:10%;
-    width:10%;
-    bottom:100px;
+    bottom: 100px;
     right: 25px;
 }
 
