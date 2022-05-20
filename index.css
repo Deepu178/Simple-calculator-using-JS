@@ -10,6 +10,7 @@ body{
     position: relative;
     height:10%;
     width:10%;
+    bottom:100px;
     right: 25px;
 }
 
