@@ -5,8 +5,8 @@ body{
 }
 
 #container{
-    width: 2000px;
-    height: 950px;
+    width: 500px;
+    height: 450;
     background-image:linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("https://user-images.githubusercontent.com/68677868/169589761-1575842f-7f1c-4ae0-bf58-acb8207601de.jpg");
     margin: 20px auto;
     position: relative;
