@@ -7,7 +7,7 @@ body{
 #container{
      width: 2000px;
     height: 950px;
-    background-image:linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("Images.jpg");
+    background-image:linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("https://user-images.githubusercontent.com/68677868/169594076-d9b0e18e-e113-408f-b4c2-465806e612f9.jpg");
     margin: 20px auto;
     position: relative;
     bottom: 100px;
