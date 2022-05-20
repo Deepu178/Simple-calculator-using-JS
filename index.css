@@ -5,11 +5,11 @@ body{
 }
 
 #container{
-    background-image:linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('../Images.jpg');
+    background-image:linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('./Images.jpg');
     margin: 20px auto;
     position: relative;
-    height:30%;
-    width:30%;
+    height:10%;
+    width:10%;
     right: 25px;
 }
 
